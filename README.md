@@ -13,6 +13,7 @@ This project creates an interactive effect visualization using HTML5 Canvas and 
 ### Preview
 
 ![Effect Visual](/docs/effImg.png "effect visual")
+[![Watch the video](docs/effVid.mp4)](docs/effVid.mp4)
 
 ### Future Enhancements
 
