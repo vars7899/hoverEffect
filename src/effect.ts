@@ -36,8 +36,8 @@ export class Effect {
       themeStyle: EFFECT_STYLE.numbers,
       options: {
         pos: {
-          x: 100,
-          y: 100,
+          x: 0,
+          y: 0,
         },
       },
     });
